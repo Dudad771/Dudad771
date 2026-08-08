@@ -82,8 +82,8 @@ Aplicações práticas desenvolvidas durante bootcamps de formação em Java, co
 ```bash
 eduarda@dev:~$ cat objetivos.txt
 
-[✓] Concluir formação em Análise e Desenvolvimento de Sistemas
 [✓] Aplicar POO em projetos reais
+[ ] Concluir formação em Análise e Desenvolvimento de Sistemas
 [ ] Conquistar primeira posição como Dev Java (Estágio/Júnior)
 [ ] Aprofundar em frameworks Java (Spring Boot)
 [ ] Explorar bancos de dados relacionais (SQL)

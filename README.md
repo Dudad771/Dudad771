@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0f,50:003d1f,100:0d1117&height=220&section=header&text=EDUARDA%20GALDINO&fontSize=42&fontColor=39FF14&fontAlignY=38&desc=Java%20Developer%20%7C%20Estagi%C3%A1ria&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0f,50:003d1f,100:0d1117&height=220&section=header&text=EDUARDA%20GALDINO&fontSize=42&fontColor=39FF14&fontAlignY=38&desc=Aspirante%20a%20Desenvolvedora%20Java&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Carregando+m%C3%B3dulo%3A+Java+%2B+POO;Compilando+projetos...;Bem-vinda+ao+meu+perfil+%3E_" alt="Typing SVG" />
 
@@ -14,15 +14,15 @@
 
 ```yaml
 nome: "Eduarda Assis Galdino"
-cargo: "Desenvolvedora Java (Estágio)"
+cargo: "Aspirante a Desenvolvedora Java"
 localizacao: "Olinda - PE, Brasil"
 formacao: "Análise e Desenvolvimento de Sistemas - UNINASSAU (2026-2027)"
 foco: "Back-end com Java"
-status: "🟢 Disponível para oportunidades de estágio/júnior"
+status: "🟢 Em busca da minha primeira oportunidade como Dev Java (estágio/júnior)"
 ```
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ☕ Experiência prática com **Java** e **Programação Orientada a Objetos**
+- ☕ Experiência prática com **Java** e **Programação Orientada a Objetos** através de projetos pessoais e bootcamps
 - 🚀 Formada em bootcamps da **DIO** (Digital Innovation One)
 - 🌱 Aprendendo e evoluindo continuamente em boas práticas de desenvolvimento
 - 💬 Aberta a colaborações e projetos em equipe
@@ -102,50 +102,4 @@ eduarda@dev:~$ _
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudad771&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudad771&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudad771&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudad771&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" width="100%"/>
-
-</div>
-
-## `>_` GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dudad771&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&row=1" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## `>_` CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dudad771/Dudad771/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
-> ⚙️ **Para ativar a animação da snake:** crie um workflow do [Platane/snk](https://github.com/Platane/snk) na pasta `.github/workflows/` deste mesmo repositório. Assim que rodar, a imagem acima aparecerá automaticamente.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## `>_` CONECTE-SE COMIGO
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Dudad771)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:eduardassis771@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/5581986617073)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1f,100:001a0f&height=120&section=footer"/>
-
-<div align="center">
-
-**"Código bem escrito é a ponte entre a lógica e a criatividade."**
-
-⭐ *Obrigada pela visita! Sinta-se à vontade para explorar meus repositórios.*
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudad771&the

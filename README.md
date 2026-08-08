@@ -20,11 +20,11 @@ foco: "Back-end com Java"
 status: "🟢 Em busca da minha primeira oportunidade como Dev Java (estágio/júnior)"
 ```
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- ☕ Experiência prática com **Java** e **Programação Orientada a Objetos** através de projetos pessoais e bootcamps
-- 🚀 Formada em bootcamps da **DIO** (Digital Innovation One)
-- 🌱 Aprendendo e evoluindo continuamente em boas práticas de desenvolvimento
-- 💬 Aberta a colaborações e projetos em equipe
+- Estudante de **Análise e Desenvolvimento de Sistemas**
+- Experiência prática com **Java** e **Programação Orientada a Objetos** através de projetos pessoais e bootcamps
+- Formada em bootcamps da **DIO** (Digital Innovation One)
+- Aprendendo e evoluindo continuamente em boas práticas de desenvolvimento
+- Aberta a colaborações e projetos em equipe
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 

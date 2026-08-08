@@ -102,4 +102,50 @@ eduarda@dev:~$ _
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudad771&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudad771&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudad771&the
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dudad771&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudad771&theme=react-dark&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff" width="100%"/>
+
+</div>
+
+## `>_` GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dudad771&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&row=1" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `>_` CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dudad771/Dudad771/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+> 🐍 *Animação atualizada automaticamente todos os dias via GitHub Actions.*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `>_` CONECTE-SE COMIGO
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Dudad771)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:eduardassis771@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/5581986617073)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003d1f,100:001a0f&height=120&section=footer"/>
+
+<div align="center">
+
+**"Código bem escrito é a ponte entre a lógica e a criatividade."**
+
+⭐ *Obrigada pela visita! Sinta-se à vontade para explorar meus repositórios.*
+
+</div>

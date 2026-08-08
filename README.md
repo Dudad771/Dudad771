@@ -80,7 +80,6 @@ Aplicações práticas desenvolvidas durante bootcamps de formação em Java, co
 ## `>_` OBJETIVOS ATUAIS
 
 ```bash
-eduarda@dev:~$ cat objetivos.txt
 
 [✓] Aplicar POO em projetos reais
 [ ] Concluir formação em Análise e Desenvolvimento de Sistemas
@@ -89,7 +88,6 @@ eduarda@dev:~$ cat objetivos.txt
 [ ] Explorar bancos de dados relacionais (SQL)
 [ ] Contribuir com projetos open source
 
-eduarda@dev:~$ _
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">

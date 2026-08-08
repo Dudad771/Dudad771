@@ -13,11 +13,11 @@
 ## `>_` SOBRE MIM
 
 ```yaml
-nome: "Eduarda Assis Galdino"
-localizacao: "Olinda - PE, Brasil"
-formacao: "Análise e Desenvolvimento de Sistemas - UNINASSAU (2026-2027)"
-foco: "Back-end com Java"
-status: "🟢 Em busca da minha primeira oportunidade como Dev Java (estágio/júnior)"
+nome: Eduarda Assis Galdino
+localizacao: Olinda - PE, Brasil
+formacao: Análise e Desenvolvimento de Sistemas - UNINASSAU (2026-2027)
+foco: Back-end com Java
+status: 🟢 Em busca da minha primeira oportunidade como Dev Java (estágio/júnior)
 ```
 
 - Estudante de **Análise e Desenvolvimento de Sistemas**

@@ -112,7 +112,7 @@ eduarda@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dudad771&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dudad771&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=7&row=1" />
 
 </div>
 

@@ -14,7 +14,6 @@
 
 ```yaml
 nome: "Eduarda Assis Galdino"
-cargo: "Aspirante a Desenvolvedora Java"
 localizacao: "Olinda - PE, Brasil"
 formacao: "Análise e Desenvolvimento de Sistemas - UNINASSAU (2026-2027)"
 foco: "Back-end com Java"
